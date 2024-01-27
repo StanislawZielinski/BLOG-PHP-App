@@ -1,4 +1,4 @@
-https://github.com/StanislawZielinski/BLOG-PHP-App/issues/1#issue-2103466172
+![1](https://github.com/StanislawZielinski/BLOG-PHP-App/assets/94519797/55f945fa-1068-49a9-a347-50d2be320621)
 
 #Droptica_final_project
 
