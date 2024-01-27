@@ -1,20 +1,10 @@
 # BLOG POST 
-## PHP, JS, CSS, HTML
+## TECHNOLOGIES: PHP, JS, CSS, HTML
 ### DOCKER, MYSQL
 
-The project is ready to start with docker-compose.
-Change your directory and run: docker-compose up -d.
-In order to start please follow 2 steps:
-
-1. CREATE A DATABASE NAMED "blogs" AND IMPORT THE SQL FILE AND RUN.
-2. CREATE A USER: "user_blogs", PASSWORD: "mojehaslo" AND GIVE PRIVILLEGES.
-
-Without the database the project won't run.
-Database file is inside "databasefile" folder
-
-admin:
-email: admin@admin.pl
-password: admin123
+download and unzip the file
+please read **readme** inside the downloaded file first
+some screenshots of the blog are shown below
 
 
 ![1](https://github.com/StanislawZielinski/BLOG-PHP-App/assets/94519797/55f945fa-1068-49a9-a347-50d2be320621)
