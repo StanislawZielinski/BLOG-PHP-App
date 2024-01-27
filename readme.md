@@ -3,7 +3,9 @@
 ### DOCKER, MYSQL
 
 download and unzip the file
+
 please read **readme** inside the downloaded file first
+
 some screenshots of the blog are shown below
 
 
